@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    background-color: #3c6e71;
+}
+
+h1 {
+    font-family: monospace;
+    color: #353535;
+}
+
+li{
+    color: #d9d9d9;
+}
